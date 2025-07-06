@@ -1,4 +1,4 @@
-# Download LingQs from lingq.com
+# Download LingQs from LingQ.com
 This is a simple python script to download all LingQs (saved vocabulary) from LingQ.com as CSV and JSON files.
 
 # Limitations
@@ -8,7 +8,7 @@ The LingQ API has built in rate limitation, so the download can take some time (
 You’ll need an API key, which you can find [here](https://www.lingq.com/en/accounts/apikey/). 
 
 # Instructions
-Download the script here. Extract the zip. 
+Download the script [here](https://github.com/tomtom800/lingq_downloader/archive/refs/heads/main.zip). Extract the zip. 
 
 Point terminal to the folder lingq_downloader.py is saved in, e.g. `cd ~/Downloads`.
 Make is executable: `chmod +x lingq_downloader.py`
