@@ -8,7 +8,7 @@ The LingQ API has built in rate limitation, so the download can take some time (
 You’ll need an API key, which you can find [here](https://www.lingq.com/en/accounts/apikey/). 
 
 # Instructions
-[Check you have Python installed]([check that you have Python installed](https://realpython.com/installing-python/)), and install it if you need to.
+[Check that you have Python installed](https://realpython.com/installing-python/), and install it if you need to.
 
 Download the script [here](https://github.com/tomtom800/lingq_downloader/archive/refs/heads/main.zip). Extract the zip. 
 
