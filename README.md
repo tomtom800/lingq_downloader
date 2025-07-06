@@ -14,7 +14,11 @@ Point terminal to the folder lingq_downloader.py is saved in, e.g. `cd ~/Downloa
 Make is executable: `chmod +x lingq_downloader.py`
 
 The next terminal command depends on your intended outputs:
+
 Download all LingQs from all languages: `python3 lingq_downloader.py --api-key YOUR_API_KEY_HERE`
+
 Download specific languages only: `python3 lingq_downloader.py --api-key YOUR_API_KEY_HERE --languages en es fr`
+
 Only download a CSV file: `python3 lingq_downloader.py --api-key YOUR_API_KEY_HERE --format csv`
+
 Only download a JSON file: `python3 lingq_downloader.py --api-key YOUR_API_KEY_HERE --format json`
