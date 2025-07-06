@@ -10,10 +10,10 @@ You’ll need an API key, which you can find [here](https://www.lingq.com/en/acc
 # Instructions
 Download the script [here](https://github.com/tomtom800/lingq_downloader/archive/refs/heads/main.zip). Extract the zip. 
 
-Point terminal to the folder lingq_downloader.py is saved in, e.g. `cd ~/Downloads`.
-Make is executable: `chmod +x lingq_downloader.py`
+Find lingq_downloader.py and move it to the folder you want to use. Open Terminal. Point Terminal to this folder, e.g. `cd ~/Downloads`.
+Make the script executable: `chmod +x lingq_downloader.py`
 
-The next terminal command depends on your intended outputs:
+The next Terminal command depends on your intended outputs:
 
 Download all LingQs from all languages: `python3 lingq_downloader.py --api-key YOUR_API_KEY_HERE`
 
